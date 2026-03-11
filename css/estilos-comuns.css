@@ -1,23 +1,27 @@
 /* Estilos compartilhados entre as páginas */
 body {
-    font-family: "Arial", sans-serif; /* [cite: 6] */
-    font-size: 14px; /* [cite: 6] */
+    font-family: "Arial", sans-serif; 
+    font-size: 14px;
     margin: 0;
 }
 
 h1 {
-    font-family: "Times New Roman", serif; /* [cite: 2] */
-    font-size: 28px; /* [cite: 2] */
-    color: limegreen; /* [cite: 9] */
+    font-family: "Times New Roman", serif; 
+    font-size: 28px; 
+    color: limegreen; 
 }
 
 h2 {
-    font-family: "Times New Roman", serif; /* [cite: 39, 58, 65] */
-    font-size: 22px; /* [cite: 39, 59, 65] */
-    color: limegreen; /* [cite: 39, 59, 66] */
+    font-family: "Times New Roman", serif; 
+    font-size: 22px; 
+    color: limegreen; 
 }
 
-/* Termos em língua estrangeira (itálico) */
 em {
-    font-style: italic; /* Conforme FAQ do usuário */
+    font-style: italic; 
+}
+#voce-sabia {
+    border: 3px solid limegreen; 
+    padding: 10px;
+    background-image: url('../imagens/fundo.png'); 
 }
