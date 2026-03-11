@@ -1,0 +1,32 @@
+body {
+    background-image: url('../imagens/fundo.png'); /* [cite: 30, 31] */
+    margin-left: 10%; /* [cite: 12] */
+    margin-right: 10%; /* [cite: 11] */
+}
+
+p {
+    text-align: justify; /* [cite: 7, 8] */
+}
+
+strong {
+    color: limegreen; /* [cite: 9, 10] */
+}
+
+blockquote {
+    margin-left: 60px; /* [cite: 16] */
+}
+
+/* Estilização de parágrafo único via ID */
+#curiosidade {
+    border: 3px solid limegreen; /* [cite: 23, 24, 25] */
+    padding: 10px; /* [cite: 26, 27] */
+}
+
+/* Centralização de imagens */
+img {
+    width: 300px; /* [cite: 47] */
+    border: 8px solid limegreen; /* [cite: 48] */
+    display: block; /* [cite: 51] */
+    margin-left: auto; /* [cite: 50] */
+    margin-right: auto; /* [cite: 50] */
+}

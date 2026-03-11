@@ -1,0 +1,23 @@
+/* Estilos compartilhados entre as páginas */
+body {
+    font-family: "Arial", sans-serif; /* [cite: 6] */
+    font-size: 14px; /* [cite: 6] */
+    margin: 0;
+}
+
+h1 {
+    font-family: "Times New Roman", serif; /* [cite: 2] */
+    font-size: 28px; /* [cite: 2] */
+    color: limegreen; /* [cite: 9] */
+}
+
+h2 {
+    font-family: "Times New Roman", serif; /* [cite: 39, 58, 65] */
+    font-size: 22px; /* [cite: 39, 59, 65] */
+    color: limegreen; /* [cite: 39, 59, 66] */
+}
+
+/* Termos em língua estrangeira (itálico) */
+em {
+    font-style: italic; /* Conforme FAQ do usuário */
+}

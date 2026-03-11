@@ -1,0 +1,22 @@
+body {
+    background-image: url('../images/desenho-loucao.jpg'); /* [cite: 88] */
+    background-size: cover; /* [cite: 89] */
+    min-height: 100vh;
+}
+
+table {
+    width: 600px; /* [cite: 72] */
+    margin-left: auto; /* [cite: 73] */
+    margin-right: auto; /* [cite: 73] */
+    text-align: center; /* [cite: 73] */
+    border-collapse: collapse; /* Conforme FAQ do usuário */
+}
+
+th, td {
+    border: 1px solid black; /* [cite: 77] */
+}
+
+th {
+    background-color: #333; /* Cor escura [cite: 75] */
+    color: white; /* Cor clara [cite: 76] */
+}
